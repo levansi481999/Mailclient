@@ -1,0 +1,18 @@
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\MailClient\MailClient\bin\Debug\MailClient.exe.config
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\MailClient\MailClient\bin\Debug\MailClient.exe
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\MailClient\MailClient\bin\Debug\MailClient.pdb
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\MailClient\MailClient\obj\Debug\MailClient.csprojResolveAssemblyReference.cache
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\MailClient\MailClient\obj\Debug\MailClient.Form1.resources
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\MailClient\MailClient\obj\Debug\MailClient.Properties.Resources.resources
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\MailClient\MailClient\obj\Debug\MailClient.csproj.GenerateResource.Cache
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\MailClient\MailClient\obj\Debug\MailClient.exe
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\MailClient\MailClient\obj\Debug\MailClient.pdb
+E:\Lap_trinh_mang\MailClient\MailClient\MailClient\bin\Debug\MailClient.exe.config
+E:\Lap_trinh_mang\MailClient\MailClient\MailClient\obj\Debug\MailClient.exe
+E:\Lap_trinh_mang\MailClient\MailClient\MailClient\obj\Debug\MailClient.pdb
+E:\Lap_trinh_mang\MailClient\MailClient\MailClient\bin\Debug\MailClient.exe
+E:\Lap_trinh_mang\MailClient\MailClient\MailClient\bin\Debug\MailClient.pdb
+E:\Lap_trinh_mang\MailClient\MailClient\MailClient\obj\Debug\MailClient.csprojResolveAssemblyReference.cache
+E:\Lap_trinh_mang\MailClient\MailClient\MailClient\obj\Debug\MailClient.Form1.resources
+E:\Lap_trinh_mang\MailClient\MailClient\MailClient\obj\Debug\MailClient.Properties.Resources.resources
+E:\Lap_trinh_mang\MailClient\MailClient\MailClient\obj\Debug\MailClient.csproj.GenerateResource.Cache
